@@ -1,1 +1,1 @@
-Repository for working on PhD candidacy exam concerning the use of CDMs on physics inventories
+Repository for working on PhD candidacy exam research using CDMs on physics conceptual inventories
